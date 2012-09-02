@@ -1,0 +1,12 @@
+--- 
+cursor_positions: 
+  - :path: Gemfile
+    :cursor_offset: 0
+    :timestamp: 2012-09-02 13:09:48.088000 -04:00
+  - :path: Rakefile
+    :cursor_offset: 239
+    :timestamp: 2012-09-02 13:09:48.065000 -04:00
+  - :path: script/rails
+    :cursor_offset: 298
+    :timestamp: 2012-09-02 13:09:49.715000 -04:00
+files_to_retain: 0
